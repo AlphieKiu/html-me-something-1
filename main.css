@@ -1,0 +1,38 @@
+body{
+    background-color: aquamarine;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+a{
+    color: darkgoldenrod;
+}
+
+img{
+    border: 10px solid slategray;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#school{
+    margin-left: 10%;
+    margin-right: 10%;
+} 
+
+article.intro{
+    background-color: rgba(111, 0, 255, 0.308);
+}
+
+article{
+    background-color: lightgreen;
+    border: 5px solid red;
+}
+
+h2{
+    margin: 10px;
+}
+
+p{
+    margin: 10px;
+}
+
